@@ -39,6 +39,6 @@ Contributions to this project are welcome! If you wish to contribute, fork the r
 
 ## Disclaimer
 
-This project is a part of a my learning journey. Feedback and contributions are encouraged and appreciated.
+This project is a part of my learning journey. Feedback and contributions are encouraged and appreciated.
 
 Thank you for exploring Wanderlust!
