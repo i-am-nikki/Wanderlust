@@ -26,8 +26,7 @@ The project adheres to the MVC (Model-View-Controller) architecture for efficien
 ## Deployment on Render
 
 This project is optimized for deployment on Render, a cloud platform.
-Project is acceessible at this link - https://wanderlust-e3fy.onrender.com/listings  
-[`You can click here as well to redirect to Wanderlust`](https://wanderlust-e3fy.onrender.com/listings)
+Project is acceessible at this link - [`CLICK HERE`](https://wanderlust-e3fy.onrender.com/listings)
 
 ## Contribution Guidelines
 
